@@ -53,6 +53,7 @@
     <Compile Include="CountingElements\MissingInteger.cs" />
     <Compile Include="Leader\Dominator.cs" />
     <Compile Include="MaximumSliceProblem\MaxProfit.cs" />
+    <Compile Include="PrimeAndCompositeNumbers\CountFactors.cs" />
     <Compile Include="SampleTest.cs" />
     <Compile Include="PrefixSums\PassingCars.cs" />
     <Compile Include="Sorting\MaxProductOfThree.cs" />
