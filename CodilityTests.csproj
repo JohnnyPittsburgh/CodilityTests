@@ -51,6 +51,8 @@
     <Compile Include="CountingElements\FrogRiverOne.cs" />
     <Compile Include="CountingElements\MaxCounters.cs" />
     <Compile Include="CountingElements\MissingInteger.cs" />
+    <Compile Include="DynamicProgramming\NumberSolitaire.cs" />
+    <Compile Include="Johnny\Recursion.cs" />
     <Compile Include="Leader\Dominator.cs" />
     <Compile Include="MaximumSliceProblem\MaxProfit.cs" />
     <Compile Include="PrimeAndCompositeNumbers\CountFactors.cs" />
