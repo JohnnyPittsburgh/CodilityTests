@@ -47,6 +47,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="BinarySearch\SampleTest.cs" />
     <Compile Include="CountingElements\PermCheck.cs" />
     <Compile Include="CountingElements\FrogRiverOne.cs" />
     <Compile Include="CountingElements\MaxCounters.cs" />
